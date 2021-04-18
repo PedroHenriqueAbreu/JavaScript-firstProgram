@@ -1,4 +1,4 @@
-console.log(`\n Trabalhando com condicionais`);
+console.log(`\n Trabalhando com Loops`);
 
 const listaDeDestinos = new Array(
     `Salvador`,
